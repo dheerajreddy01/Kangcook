@@ -1,0 +1,26 @@
+# React.js - Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.yarn
+*.env
+*.myenv
+*.log
+coverage/
+
+# Django - Backend
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+venv/
+staticfiles/
+media/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.idea/
+.vscode/
